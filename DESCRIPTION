@@ -11,7 +11,7 @@ Description: Theses are relatively structured documents that are often
     workflow covers extraction, pre-processing, analysis, visualisation
     and reporting.
 License: MIT + file LICENSE
-URL: https://github.com/UD3-Lab/mint
+URL: https://ud3-lab.github.io/mint/
 BugReports: https://github.com/UD3-Lab/mint/issues
 Suggests: 
     knitr,
