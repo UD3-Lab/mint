@@ -6,7 +6,11 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of mint is to …
+Theses are relatively structured documents that are often publicly
+available and thus potentially useful for text mining applications. The
+‘mint’ package provides a text mining workflow that is tailored to the
+expected format and structure of theses. The workflow covers extraction,
+pre-processing, analysis, visualisation and reporting.
 
 ## Installation
 
