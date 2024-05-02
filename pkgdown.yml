@@ -1,0 +1,15 @@
+pandoc: 3.1.11
+pkgdown: 2.0.9
+pkgdown_sha: ~
+articles:
+  analyse: analyse.html
+  extract: extract.html
+  pre-process: pre-process.html
+  report: report.html
+  visualise: visualise.html
+  workflow: workflow.html
+last_built: 2024-05-02T10:43Z
+urls:
+  reference: https://ud3-lab.github.io/mint/reference
+  article: https://ud3-lab.github.io/mint/articles
+
